@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIKITA</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8e1bc36b-2b8e-4f50-be7c-e160831d8dac</PackageIdentityName>
+    <PackageIdentityPublisher>CN=nikit</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.exe">
+      <PackagePath>Дурак 1.0.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.xr.xml">
+      <PackagePath>Дурак 1.0.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

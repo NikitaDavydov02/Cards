@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIKITA</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8e1bc36b-2b8e-4f50-be7c-e160831d8dac</PackageIdentityName>
+    <PackageIdentityPublisher>CN=nikit</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8AF396371158FD01498DF63B52D687C30A2108119C9A58D62CB78DC4BB42F3D2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8e1bc36b-2b8e-4f50-be7c-e160831d8dac_1.0.0.0_neutral__e0czjm4dkbe7e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8e1bc36b-2b8e-4f50-be7c-e160831d8dac_e0czjm4dkbe7e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8e1bc36b-2b8e-4f50-be7c-e160831d8dac</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nikit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-05T17:32:42.278</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.exe">
+      <PackagePath>Дурак 1.0.Windows.exe</PackagePath>
+      <Modified>2018-04-20T14:17:41.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-08T13:42:37.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-08T13:44:40.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-08T13:53:53.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.xr.xml">
+      <PackagePath>Дурак 1.0.Windows.xr.xml</PackagePath>
+      <Modified>2017-08-08T13:27:44.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-08-05T17:32:40.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+      <Modified>2017-08-08T13:27:44.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-08-06T12:20:34.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-05T17:32:41.633</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,74 @@
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.g.i.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.g.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.g.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.xaml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.xaml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.xbf
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.xbf
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\App.xbf
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\MainPage.xbf
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.xr.xml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.exe
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.pdb
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\resources.pri
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\AppxManifest.xml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.build.appxrecipe
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\Дурак 1.0.Windows.exe
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\Дурак 1.0.Windows.pdb
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\priconfig.xml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\layout.resfiles
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\resources.resfiles
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\pri.resfiles
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\qualifiers.txt
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\GamePage.xbf
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.g.i.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.g.cs
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.xaml
+C:\Users\nikit\Documents\Visual Studio 2015\Projects\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\App.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\GamePage.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\MainPage.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.xr.xml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.exe
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.pdb
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\resources.pri
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\AppxManifest.xml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\bin\Debug\Дурак 1.0.Windows.build.appxrecipe
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.g.i.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.g.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.g.i.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.g.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.g.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.xaml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.xaml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.xaml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\App.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\GamePage.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MainPage.xbf
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\Дурак 1.0.Windows.exe
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\Дурак 1.0.Windows.pdb
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\priconfig.xml
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\layout.resfiles
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\resources.resfiles
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\pri.resfiles
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\qualifiers.txt
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nikit\Documents\C# нужное\Дурак 1.0\Дурак 1.0\Дурак 1.0.Windows\obj\Debug\ProjectArchitectures.txt
